@@ -4,4 +4,4 @@
 
 ### Project title: Retail Sales Performance Dashboard 
 ---
-[project overview] (#project-overview)
+[project overview](#project-overview)

@@ -17,3 +17,7 @@
 [Exploratory data analysis](#Exploratory-data-analysis)
 
 [Data visualization](#Data-visualization)
+
+[Result](#Result)
+
+[Recommendation](#Recommendation)

@@ -89,6 +89,8 @@ This was visualize with the use of power BI
 
 ### Results
 ---
+key insight:
+
 
 
 ### Recommendations

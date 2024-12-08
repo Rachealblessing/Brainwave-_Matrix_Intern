@@ -43,6 +43,7 @@ The primary source of data used is from kaggle, whivh is a great platform that o
 ### Tool used
 ---
 Microsoft excel : for data cleaning, for data exploratory of data
+
 Power BI : for visualizations
 Github : for portfolio
 

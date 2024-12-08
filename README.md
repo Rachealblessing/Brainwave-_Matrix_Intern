@@ -64,8 +64,11 @@ Github : for portfolio
 ### Data preparation
 ---
 data loading and inspection
+
 removal of duplicates
+
 handling of missing variables
+
 data cleaning and formatting
 
 ### Exploratory data analysis

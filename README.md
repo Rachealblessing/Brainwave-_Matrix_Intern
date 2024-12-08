@@ -90,8 +90,28 @@ This was visualize with the use of power BI
 ### Results
 ---
 key insight:
+- Total sales given as 465k, highest category is electronics with 157k,but clothing sells the most quanity
+  
+- Top customers: Adults with 55.8% and mature adults with 40%; Adolescents contribute only 4.2%.
 
+- Gender spilt: Male with 51% and female with 48.4% sales are nearly baalanced
 
+- Trends: sales peak towards year end suggesting seasonal demand
 
 ### Recommendations
 ---
+Focus on electronics and clothing:
+- electronics make the most money,promote them more
+- clothing seell in large quantities, offer deals like discounts
+
+ Target key age group:
+ - most customers are adults and mature adults, focus advertising and product offers on them  - create campaign for -
+- adolescents to encourage them to buy more
+
+Use seasonal trends:
+ - sales go up at the end of the year.
+plan big promotions or special events during this time to increase profits.
+
+Boost beauty sales:
+- Beauty products are not performing as well. consider better advertising, special offers, or partnerships to improve sales.
+

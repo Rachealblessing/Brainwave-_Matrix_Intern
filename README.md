@@ -20,7 +20,7 @@ Table of contents
 
 [Data cleaning and preparation](#Data-cleaning-and-preparation)
 
-[key performance indicators](#key-performance -indicators)
+[key performance indicators](#key-performance-indicators)
 
 [Data visualization](#Data-visualization)
 

@@ -4,6 +4,10 @@
 
 ### Project title: Retail Sales Performance Dashboard 
 ---
+
+Table of contents 
+---
+
 [project overview](#project-overview)
 
 [Data source](#Data-source)
